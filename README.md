@@ -1,4 +1,9 @@
-# Malicious Code Analysis and Prevention Reminder
+
+https://github.com/user-attachments/assets/34977323-089f-4a9b-a4b1-630e12cfeeb1
+# Traitor Virus Code Analysis and Prevention Reminder
+
+## Code effect display
+
 
 ## I. Code Overview
 This Python code is a malicious program. After obtaining administrator privileges, it performs a series of destructive operations on the computer system. These operations include but are not limited to blocking user input, modifying system settings, automatically downloading programs, encrypting files, disabling the task manager, changing system icons, playing audio and video files, and ultimately attempting to kill all processes, which may cause the system to crash with a blue screen.
