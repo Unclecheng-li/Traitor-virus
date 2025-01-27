@@ -1,6 +1,6 @@
-# Traitor Virus Code Analysis and Prevention Reminder
+# Traitor Virus | 东雪莲病毒
 
-## Code effect display
+## Code effect display 
 ![image](https://github.com/user-attachments/assets/357f63d8-b2fd-4296-9068-c0ca36290f6c)
 ![image](https://github.com/user-attachments/assets/cd9439c1-79dc-46ab-b126-c2388b19d043)
 ![image](https://github.com/user-attachments/assets/ae1ceae3-dc59-4694-b3f2-859f6507deac)
